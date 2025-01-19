@@ -1,0 +1,27 @@
+{
+  "simple": {
+    "name": "Simple",
+    "desc": "The program has a visible, cartoon icon in the Net.",
+    "value": 1
+  },
+  "contextual": {
+    "name": "Contextual",
+    "desc": "The program has a Net ICON about the graphic level of a high-res computer image.",
+    "value": 2
+  },
+  "fractal": {
+    "name": "Fractal",
+    "desc": "The program has somewhat realistic Net ICON, with shading, texture and sensation.",
+    "value": 3
+  },
+  "photorealistic": {
+    "name": "Photorealistic",
+    "desc": "The program has a very realistic ICON about the level of a good video image or movie.",
+    "value": 4
+  },
+  "superrealistic": {
+    "name": "Superrealistic",
+    "desc": "The program has an ICON that looks like a real person or object.",
+    "value": 5
+  }
+}

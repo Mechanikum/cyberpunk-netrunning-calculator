@@ -1,0 +1,52 @@
+{
+  "track": {
+    "name": "Tracking",
+    "desc": "The program can follow another program or netrunner through the Net.",
+    "value": 2
+  },
+  "recon": {
+    "name": "Auto Re-Rez",
+    "desc": "The program can reconstruct itself even if destroyed by rolling a 5 or 6 on 1D6.",
+    "value": 3
+  },
+  "recog": {
+    "name": "Recognition",
+    "desc": "The program can distinguish between different netrunner signals and programs.",
+    "value": 2
+  },
+  "invis": {
+    "name": "Invisibility",
+    "desc": "The program is +2 Strength to evade detection.",
+    "value": 3
+  },
+  "mem": {
+    "name": "Memory",
+    "desc": "The program can remember specific events and people.",
+    "value": 5
+  },
+  "spd": {
+    "name": "Speed",
+    "desc": "The program adds +2 to deck speed when it runs.",
+    "value": 2
+  },
+  "end": {
+    "name": "Endurance",
+    "desc": "The program is tireless and will never quit unless destroyed.",
+    "value": 3
+  },
+  "rep": {
+    "name": "Replication",
+    "desc": "The program can copy itself into an architecture if it has root access.",
+    "value": 3
+  },
+  "conv": {
+    "name": "Conversational ability",
+    "desc": "The program can speak.",
+    "value": 3
+  },
+  "copy": {
+    "name": "Copy protection",
+    "desc": "If you try to copy the software you should make DV24 check against Programming skill",
+    "value": 5
+  }
+}

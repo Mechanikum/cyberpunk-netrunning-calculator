@@ -1,0 +1,37 @@
+{
+  "anti_program": {
+    "name": "Anti program",
+    "desc": "",
+    "value": 5
+  },
+  "anti_system": {
+    "name": "Anti system",
+    "desc": "",
+    "value": 7
+  },
+  "anti_personnel": {
+    "name": "Anti personnel",
+    "desc": "",
+    "value": 15
+  },
+  "cryptography": {
+    "name": "Cryptography",
+    "desc": "",
+    "value": 17
+  },
+  "defense": {
+    "name": "Defense",
+    "desc": "",
+    "value": 13
+  },
+  "synth": {
+    "name": "Synthesiser",
+    "desc": "",
+    "value": 9
+  },
+  "service": {
+    "name": "Service",
+    "desc": "",
+    "value": 4
+  }
+}

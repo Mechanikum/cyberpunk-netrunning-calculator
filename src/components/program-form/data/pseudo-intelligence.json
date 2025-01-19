@@ -1,0 +1,86 @@
+{
+    "reflex": {
+      "value": 4,
+      "name": "Reflex level",
+      "desc": "Basic reactions to external stimuli or commands (up to 3 triggers)",
+      "intelligence": 1,
+      "cores": 1
+    },
+    "program": {
+      "value": 5,
+      "name": "Programmable level",
+      "desc": "Expanded reactions to external stimuli or commands (up to 9 triggers)",
+      "intelligence": 2,
+      "cores": 1
+    },
+    "categorical": {
+      "value": 7,
+      "name": "Categorical level",
+      "desc": "Ability to freely interpret external conditions and perform actions by categories",
+      "intelligence": 3,
+      "cores": 1
+    },
+    "situational": {
+      "value": 14,
+      "name": "Situational level",
+      "desc": "Ability to freely interpret external conditions and perform actions based on the situation",
+      "intelligence": 4,
+      "cores": 2
+    },
+    "contextual": {
+      "value": 16,
+      "name": "Contextual level",
+      "desc": "Context analysis and adaptation of actions based on the environment",
+      "intelligence": 5,
+      "cores": 2
+    },
+    "analytical": {
+      "value": 18,
+      "name": "Pseudo-analytical level",
+      "desc": "Pseudo-intelligence capable of analysis and modifying data representation",
+      "intelligence": 6,
+      "cores": 2
+    },
+    "creative": {
+      "value": 24,
+      "name": "Creative level",
+      "desc": "Pseudo-intelligence capable of creative problem-solving",
+      "intelligence": 7,
+      "cores": 3
+    },
+    "emotional": {
+      "value": 30,
+      "name": "Emotional level",
+      "desc": "Ability to interpret and simulate emotional states",
+      "intelligence": 8,
+      "cores": 3
+    },
+    "social": {
+      "value": 36,
+      "name": "Social level",
+      "desc": "Ability to adapt to social interactions and learn from others",
+      "intelligence": 9,
+      "cores": 3
+    },
+    "integrative": {
+      "value": 44,
+      "name": "Integrative level",
+      "desc": "Ability to integrate into complex systems and coordinate actions (Cluster pseudo-intelligence management)",
+      "intelligence": 10,
+      "cores": 4
+    },
+    "developing": {
+      "value": 52,
+      "name": "Self-developing level",
+      "desc": "Full autonomy in learning and self-improvement",
+      "intelligence": 11,
+      "cores": 4
+    },
+    "awawre": {
+      "value": 60,
+      "name": "Self-aware AI",
+      "desc": "Awareness of its own essence and goals",
+      "intelligence": 12,
+      "cores": 4
+    }
+}
