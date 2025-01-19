@@ -29,7 +29,7 @@ const NumericValueInput: React.FC<NumericValueInput> = ({title, adornment, disab
 				}
 
 				return (
-					<FormItem aria-disabled={disabled} className={cn("group", className)}>
+					<FormItem aria-disabled={disabled} className={cn("group text-center", className)}>
 						<FormLabel className={"group-aria-disabled:text-muted-foreground"}>{title}</FormLabel>
 						<FormControl>
 							<div className={"flex gap-1 items-center"}>
