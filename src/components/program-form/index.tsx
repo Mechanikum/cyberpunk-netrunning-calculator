@@ -120,7 +120,7 @@ const ProgramForm = () => {
 		<Form {...form}>
 			<form
 				onSubmit={form.handleSubmit((data) => console.error(data), (e) => console.error(e))}
-				className="flex-1 min-h-0 max-w-[60vw] grid grid-rows-[auto_1fr] grid-cols-3 gap-4 py-4 px-4"
+				className="flex-1 min-h-0 max-w-[60vw] grid grid-rows-[auto_1fr] grid-cols-3 gap-4 py-4 px-4 mx-auto"
 			>
 				<div className={"flex flex-col gap-4"}>
 					<FormField
@@ -249,7 +249,7 @@ const ProgramForm = () => {
 							control={form.control}
 							name="difficulty"
 							render={({field}) => (
-								<FormItem>
+								<FormItem className="text-center">
 									<FormLabel>Difficulty</FormLabel>
 									<FormControl>
 										<div className={"flex items-center gap-[1ch]"}>
@@ -280,7 +280,7 @@ const ProgramForm = () => {
 							control={form.control}
 							name="size"
 							render={({field}) => (
-								<FormItem>
+								<FormItem className="text-center">
 									<FormLabel>Size</FormLabel>
 									<FormControl>
 										<div className={"flex items-center"}>
@@ -337,7 +337,7 @@ const ProgramForm = () => {
 							control={form.control}
 							name="rez"
 							render={({field}) => (
-								<FormItem className={"row-start-2"}>
+								<FormItem className={"row-start-2 text-center"}>
 									<FormLabel>REZ</FormLabel>
 									<FormControl>
 										<div className={"flex items-center"}>
